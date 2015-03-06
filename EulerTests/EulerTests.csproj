@@ -63,6 +63,7 @@
     <Compile Include="PrimeFactorTests.cs" />
     <Compile Include="MultipleOfTreeAndFiveTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SmallestMultipleTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
