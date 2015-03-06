@@ -27,5 +27,24 @@ namespace Euler
             }
             return true;
         }
+
+        public static bool IsPalindrome(ulong n)
+        {
+            var arr = n.ToString().ToCharArray();
+            int firstIndex= 0;
+            int lastIndex = arr.Length - 1;
+
+            while (firstIndex < lastIndex)
+            {
+                if (arr[firstIndex] != arr[lastIndex])
+                {
+                    return false;
+                }
+                firstIndex++;
+                lastIndex--;
+            }
+
+            return true;
+        }
     }
 }
