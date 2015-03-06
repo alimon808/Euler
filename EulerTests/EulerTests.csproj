@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FibonacciTests.cs" />
+    <Compile Include="PrimeFactorTests.cs" />
     <Compile Include="MultipleOfTreeAndFiveTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
