@@ -21,5 +21,19 @@ namespace Euler
             }
             return lpf;
         }
+
+        public static ulong SumOfPrimes(int n)
+        {
+            ulong sum = 0;
+            for (int i = 2; i < n; i++)
+            {
+                if (EulerHelper.IsPrime((ulong)i))
+                {
+                    sum = sum + (ulong)i;
+                }
+            }
+
+            return sum;
+        }
     }
 }

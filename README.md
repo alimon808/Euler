@@ -1,5 +1,5 @@
 ﻿# Project Euler
-Eight down and many problems to go.
+10 down and many problems to go.
 
 ## Problem 1: Multiples of 3 and 5    
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
@@ -80,3 +80,8 @@ For example, 32 + 42 = 9 + 16 = 25 = 52.
 
 There exists exactly one Pythagorean triplet for which a + b + c = 1000.
 Find the product abc.
+
+## Problem 10: Summation of primes
+The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+
+Find the sum of all the primes below two million.
