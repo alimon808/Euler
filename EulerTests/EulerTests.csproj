@@ -58,6 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CollatzSequenceTests.cs" />
     <Compile Include="FibonacciTests.cs" />
     <Compile Include="LargeSumTests.cs" />
     <Compile Include="PalindromeTests.cs" />

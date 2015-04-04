@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CollatzSequence.cs" />
     <Compile Include="EulerHelper.cs" />
     <Compile Include="Fibonacci.cs" />
     <Compile Include="LargeSum.cs" />
