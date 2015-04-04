@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="EulerHelper.cs" />
     <Compile Include="Fibonacci.cs" />
+    <Compile Include="LargeSum.cs" />
     <Compile Include="ProductInASeries.cs" />
     <Compile Include="Palindrome.cs" />
     <Compile Include="PrimeFactor.cs" />

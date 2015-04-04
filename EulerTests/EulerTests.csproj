@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FibonacciTests.cs" />
+    <Compile Include="LargeSumTests.cs" />
     <Compile Include="PalindromeTests.cs" />
     <Compile Include="PrimeFactorTests.cs" />
     <Compile Include="MultipleOfTreeAndFiveTests.cs" />

@@ -47,7 +47,7 @@ namespace Euler
             return numberOfDivisors;
         }
 
-        public int FirstTriangleNumberForNDivisors(int n)
+        public int FirstTriangularNumberForNDivisors(int n)
         {
             int sum = 0;
             int naturalNumber = 1;

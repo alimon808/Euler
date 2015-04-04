@@ -105,3 +105,6 @@ We can see that 28 is the first triangle number to have over five divisors.
 
 What is the value of the first triangle number to have over five hundred divisors?
 
+## Problem 13: Large Sum  
+Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.  
+

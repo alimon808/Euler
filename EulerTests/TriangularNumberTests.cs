@@ -33,15 +33,15 @@ namespace EulerTests
         public void ShouldTestFirstTriangularNumberWithFiveDivisors()
         {
             var triangularNumber = new TriangularNumber();
-            var result = triangularNumber.FirstTriangleNumberForNDivisors(5);
+            var result = triangularNumber.FirstTriangularNumberForNDivisors(5);
             Assert.That(result, Is.EqualTo(28));
         }
 
         [Test]
-        public void ShouldTestFirstTriangularNumberWithFiveHundredDivisors()
+        public void ShouldFindFirstTriangularNumberWithFiveHundredDivisors()
         {
             var triangularNumber = new TriangularNumber();
-            var result = triangularNumber.FirstTriangleNumberForNDivisors(500);
+            var result = triangularNumber.FirstTriangularNumberForNDivisors(500);
             Assert.That(result, Is.EqualTo(76576500));
         }
     }
