@@ -51,6 +51,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -62,6 +63,7 @@
     <Compile Include="FibonacciTests.cs" />
     <Compile Include="LargeSumTests.cs" />
     <Compile Include="PalindromeTests.cs" />
+    <Compile Include="PowerDigitSumTests.cs" />
     <Compile Include="PrimeFactorTests.cs" />
     <Compile Include="MultipleOfTreeAndFiveTests.cs" />
     <Compile Include="PrimeTests.cs" />
